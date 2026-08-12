@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Albion Browser 1.0</string>
+    <string name="app_subtitle">Fast, Private &amp; Secure Web Browser</string>
+
+    <!-- Search & Address Bar -->
+    <string name="search_or_type_url">Search or type web address...</string>
+    <string name="open_site">Open site</string>
+    <string name="search_query">Search query</string>
+
+    <!-- Navigation & Toolbar Actions -->
+    <string name="action_back">Back</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_reload">Reload</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_home">Home</string>
+    <string name="action_tabs">Tabs</string>
+    <string name="action_new_tab">New Tab</string>
+    <string name="action_new_private_tab">New Incognito Tab</string>
+    <string name="action_bookmarks">Bookmarks</string>
+    <string name="action_history">History</string>
+    <string name="action_downloads">Downloads</string>
+    <string name="action_privacy_center">Privacy Center</string>
+    <string name="action_vpn">VPN Protection</string>
+    <string name="action_find_in_page">Find in page</string>
+    <string name="action_share">Share page</string>
+    <string name="action_desktop_site">Desktop site</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Tab Manager -->
+    <string name="tab_manager">Tab Manager</string>
+    <string name="tabs_count">%1$d Tabs</string>
+    <string name="incognito_tabs_count">%1$d Incognito Tabs</string>
+    <string name="close_tab">Close tab</string>
+    <string name="close_all_tabs">Close all tabs</string>
+    <string name="reopen_closed_tab">Reopen closed tab</string>
+    <string name="private_mode_notice">Incognito mode active. Your browsing history, cookies, and search queries will not be saved on this device.</string>
+
+    <!-- Ad Blocker & Privacy -->
+    <string name="ad_blocker">Ad Blocker</string>
+    <string name="tracker_blocker">Tracker Blocker</string>
+    <string name="ads_blocked">Ads Blocked</string>
+    <string name="trackers_blocked">Trackers Blocked</string>
+    <string name="block_popups">Block Popups</string>
+    <string name="block_third_party_cookies">Block 3rd-Party Cookies</string>
+    <string name="whitelist_website">Whitelist this Website</string>
+    <string name="whitelisted">Whitelisted</string>
+    <string name="clear_browsing_data">Clear Browsing Data</string>
+
+    <!-- VPN Section -->
+    <string name="vpn_title">Albion VPN Service</string>
+    <string name="vpn_status">VPN Status</string>
+    <string name="vpn_status_disconnected">Disconnected</string>
+    <string name="vpn_status_connecting">Connecting...</string>
+    <string name="vpn_status_connected">Connected</string>
+    <string name="vpn_connect">Connect VPN</string>
+    <string name="vpn_disconnect">Disconnect</string>
+    <string name="vpn_server">VPN Server</string>
+    <string name="vpn_connection_time">Connection Time</string>
+    <string name="vpn_data_transferred">Data Transferred</string>
+    <string name="vpn_infrastructure_notice">Note: Local TUN interface established. Full external relay requires server infrastructure.</string>
+
+    <!-- New Tab Page -->
+    <string name="new_tab">New Tab</string>
+    <string name="favorites">Favorites</string>
+    <string name="recently_visited">Recently Visited</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="privacy_summary">Privacy Protection Summary</string>
+
+    <!-- Settings -->
+    <string name="settings_general">General</string>
+    <string name="settings_privacy">Privacy &amp; Security</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_browser">Browser Engine</string>
+    <string name="settings_vpn">VPN Settings</string>
+    <string name="default_search_engine">Default Search Engine</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="app_language">Application Language</string>
+
+    <!-- Error Messages -->
+    <string name="error_no_internet">No Internet Connection</string>
+    <string name="error_no_internet_desc">Please check your Wi-Fi or mobile data connection and try again.</string>
+    <string name="error_invalid_url">Invalid Web Address</string>
+    <string name="error_page_load_failed">Page Load Failed</string>
+    <string name="error_retry">Retry Loading</string>
+
+</resources>

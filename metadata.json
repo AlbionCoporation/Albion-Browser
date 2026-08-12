@@ -1,0 +1,6 @@
+{
+  "name": "Albion Browser 1.0",
+  "description": "Fast, privacy-focused Android browser with built-in ad blocker, tab manager, privacy center, and VPN integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

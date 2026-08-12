@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Albion Browser</string>
+    <string name="app_subtitle">Shfletues Uebi i Shpejtë, Privat dhe i Sigurt</string>
+
+    <string name="search_or_type_url">Kërko ose shkruaj adresën e uebit...</string>
+    <string name="open_site">Hap faqen</string>
+    <string name="search_query">Kërko</string>
+
+    <string name="action_back">Kthehu</string>
+    <string name="action_forward">Përpara</string>
+    <string name="action_reload">Rifresko</string>
+    <string name="action_stop">Ndalo</string>
+    <string name="action_home">Kreu</string>
+    <string name="action_tabs">Skedat</string>
+    <string name="action_new_tab">Skedë e Re</string>
+    <string name="action_new_private_tab">Skedë Inkognito</string>
+    <string name="action_bookmarks">Libërshënuesit</string>
+    <string name="action_history">Historiku</string>
+    <string name="action_downloads">Shkarkimet</string>
+    <string name="action_privacy_center">Qendra e Privatësisë</string>
+    <string name="action_vpn">Mbrojtja VPN</string>
+    <string name="action_find_in_page">Gjej në faqen</string>
+    <string name="action_share">Shpërndaj faqen</string>
+    <string name="action_desktop_site">Faqe për Kompjuter</string>
+    <string name="action_settings">Cilësimet</string>
+
+    <string name="tab_manager">Menaxheri i Skedave</string>
+    <string name="tabs_count">%1$d Skeda</string>
+    <string name="incognito_tabs_count">%1$d Skeda Inkognito</string>
+    <string name="close_tab">Mbyll skedën</string>
+    <string name="close_all_tabs">Mbyll të gjitha skedat</string>
+    <string name="reopen_closed_tab">Rihap skedën e mbyllur</string>
+    <string name="private_mode_notice">Modaliteti Inkognito është aktiv. Historiku, skedarët cookie dhe kërkimet tuaja nuk do të ruhen në këtë pajisje.</string>
+
+    <string name="ad_blocker">Bllokuesi i Reklamave</string>
+    <string name="tracker_blocker">Bllokuesi i Gjurmuesve</string>
+    <string name="ads_blocked">Reklama të Bllokuara</string>
+    <string name="trackers_blocked">Gjurmues të Bllokuar</string>
+    <string name="block_popups">Blloko Dritaret Pop-up</string>
+    <string name="block_third_party_cookies">Blloko Cookies e Palëve të Treta</string>
+    <string name="whitelist_website">Shto Faqen në Listën e Bardhë</string>
+    <string name="whitelisted">Në Listën e Bardhë</string>
+    <string name="clear_browsing_data">Pastro Të Dhënat e Shfletimit</string>
+
+    <string name="vpn_title">Shërbimi Albion VPN</string>
+    <string name="vpn_status">Statusi i VPN</string>
+    <string name="vpn_status_disconnected">I Shkëputur</string>
+    <string name="vpn_status_connecting">Po lidhet...</string>
+    <string name="vpn_status_connected">I Lidhur</string>
+    <string name="vpn_connect">Lidh VPN</string>
+    <string name="vpn_disconnect">Shkëput</string>
+    <string name="vpn_server">Serveri VPN</string>
+    <string name="vpn_connection_time">Koha e Lidhjes</string>
+    <string name="vpn_data_transferred">Të Dhënat e Transferuara</string>
+    <string name="vpn_infrastructure_notice">Shënim: Ndërfaqja vendore TUN u krijua. Reletë e jashtme kërkojnë infrastrukturë serveri.</string>
+
+    <string name="new_tab">Skedë e Re</string>
+    <string name="favorites">Të Preferuarat</string>
+    <string name="recently_visited">Vizituar Së Fundmi</string>
+    <string name="quick_actions">Veprime të Shpejta</string>
+    <string name="privacy_summary">Përmbledhje e Mbrojtjes së Privatësisë</string>
+
+    <string name="settings_general">Përgjithshme</string>
+    <string name="settings_privacy">Privatësia &amp; Siguria</string>
+    <string name="settings_appearance">Pamja</string>
+    <string name="settings_browser">Motorri i Shfletuesit</string>
+    <string name="settings_vpn">Cilësimet e VPN</string>
+    <string name="default_search_engine">Motorri i Paracaktuar i Kërkimit</string>
+    <string name="theme_mode">Modaliteti i Pamjes</string>
+    <string name="app_language">Gjuha e Aplikacionit</string>
+
+    <string name="error_no_internet">Mungon Lidhja me Internetin</string>
+    <string name="error_no_internet_desc">Ju lutemi kontrolloni lidhjen Wi-Fi ose të të dhënave celulare dhe provoni përsëri.</string>
+    <string name="error_invalid_url">Adresë Uebi e Pavlefshme</string>
+    <string name="error_page_load_failed">Ngarkimi i Faqes Dështoi</string>
+    <string name="error_retry">Riprovo Ngarkimin</string>
+</resources>

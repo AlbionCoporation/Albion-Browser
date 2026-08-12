@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Albion Browser</string>
+    <string name="app_subtitle">Navegador Web Rápido, Privado y Seguro</string>
+
+    <string name="search_or_type_url">Buscar o escribir dirección web...</string>
+    <string name="open_site">Abrir sitio</string>
+    <string name="search_query">Búsqueda</string>
+
+    <string name="action_back">Atrás</string>
+    <string name="action_forward">Adelante</string>
+    <string name="action_reload">Recargar</string>
+    <string name="action_stop">Detener</string>
+    <string name="action_home">Inicio</string>
+    <string name="action_tabs">Pestañas</string>
+    <string name="action_new_tab">Nueva pestaña</string>
+    <string name="action_new_private_tab">Nueva pestaña de incógnito</string>
+    <string name="action_bookmarks">Marcadores</string>
+    <string name="action_history">Historial</string>
+    <string name="action_downloads">Descargas</string>
+    <string name="action_privacy_center">Centro de Privacidad</string>
+    <string name="action_vpn">Protección VPN</string>
+    <string name="action_find_in_page">Buscar en la página</string>
+    <string name="action_share">Compartir página</string>
+    <string name="action_desktop_site">Sitio para computadora</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="tab_manager">Administrador de Pestañas</string>
+    <string name="tabs_count">%1$d Pestañas</string>
+    <string name="incognito_tabs_count">%1$d Pestañas de incógnito</string>
+    <string name="close_tab">Cerrar pestaña</string>
+    <string name="close_all_tabs">Cerrar todas las pestañas</string>
+    <string name="reopen_closed_tab">Reabrir pestaña cerrada</string>
+    <string name="private_mode_notice">Modo de incógnito activo. El historial y las cookies no se guardarán en este dispositivo.</string>
+
+    <string name="ad_blocker">Bloqueador de Anuncios</string>
+    <string name="tracker_blocker">Bloqueador de Rastreadores</string>
+    <string name="ads_blocked">Anuncios Bloqueados</string>
+    <string name="trackers_blocked">Rastreadores Bloqueados</string>
+    <string name="block_popups">Bloquear Ventanas Emergentes</string>
+    <string name="block_third_party_cookies">Bloquear Cookies de Terceros</string>
+    <string name="whitelist_website">Permitir este Sitio Web</string>
+    <string name="whitelisted">Permitido</string>
+    <string name="clear_browsing_data">Borrar Datos de Navegación</string>
+
+    <string name="vpn_title">Servicio Albion VPN</string>
+    <string name="vpn_status">Estado de VPN</string>
+    <string name="vpn_status_disconnected">Desconectado</string>
+    <string name="vpn_status_connecting">Conectando...</string>
+    <string name="vpn_status_connected">Conectado</string>
+    <string name="vpn_connect">Conectar VPN</string>
+    <string name="vpn_disconnect">Desconectar</string>
+    <string name="vpn_server">Servidor VPN</string>
+    <string name="vpn_connection_time">Tiempo de Conexión</string>
+    <string name="vpn_data_transferred">Datos Transferidos</string>
+    <string name="vpn_infrastructure_notice">Nota: Interfaz TUN local configurada. Relevo externo requiere infraestructura de servidor.</string>
+
+    <string name="new_tab">Nueva pestaña</string>
+    <string name="favorites">Favoritos</string>
+    <string name="recently_visited">Visitados Recientemente</string>
+    <string name="quick_actions">Acciones Rápidas</string>
+    <string name="privacy_summary">Resumen de Protección</string>
+
+    <string name="settings_general">General</string>
+    <string name="settings_privacy">Privacidad y Seguridad</string>
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_browser">Motor de Navegación</string>
+    <string name="settings_vpn">Ajustes de VPN</string>
+    <string name="default_search_engine">Buscador predeterminado</string>
+    <string name="theme_mode">Modo de Tema</string>
+    <string name="app_language">Idioma de la Aplicación</string>
+
+    <string name="error_no_internet">Sin Conexión a Internet</string>
+    <string name="error_no_internet_desc">Por favor, comprueba tu conexión Wi-Fi o de datos móviles e inténtalo de nuevo.</string>
+    <string name="error_invalid_url">Dirección Web Inválida</string>
+    <string name="error_page_load_failed">Error al Cargar la Página</string>
+    <string name="error_retry">Reintentar</string>
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Albion Browser</string>
+    <string name="app_subtitle">Schneller, privater &amp; sicherer Webbrowser</string>
+
+    <string name="search_or_type_url">Suchen oder Webadresse eingeben...</string>
+    <string name="open_site">Seite öffnen</string>
+    <string name="search_query">Suchanfrage</string>
+
+    <string name="action_back">Zurück</string>
+    <string name="action_forward">Vorwärts</string>
+    <string name="action_reload">Neu laden</string>
+    <string name="action_stop">Stoppen</string>
+    <string name="action_home">Startseite</string>
+    <string name="action_tabs">Tabs</string>
+    <string name="action_new_tab">Neuer Tab</string>
+    <string name="action_new_private_tab">Neuer Inkognito-Tab</string>
+    <string name="action_bookmarks">Lesezeichen</string>
+    <string name="action_history">Verlauf</string>
+    <string name="action_downloads">Downloads</string>
+    <string name="action_privacy_center">Datenschutz-Center</string>
+    <string name="action_vpn">VPN-Schutz</string>
+    <string name="action_find_in_page">Auf Seite suchen</string>
+    <string name="action_share">Seite teilen</string>
+    <string name="action_desktop_site">Desktop-Website</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string name="tab_manager">Tab-Manager</string>
+    <string name="tabs_count">%1$d Tabs</string>
+    <string name="incognito_tabs_count">%1$d Inkognito-Tabs</string>
+    <string name="close_tab">Tab schließen</string>
+    <string name="close_all_tabs">Alle Tabs schließen</string>
+    <string name="reopen_closed_tab">Geschlossenen Tab wiederöffnen</string>
+    <string name="private_mode_notice">Inkognito-Modus aktiv. Verlauf, Cookies und Suchanfragen werden auf diesem Gerät nicht gespeichert.</string>
+
+    <string name="ad_blocker">Werbeblocker</string>
+    <string name="tracker_blocker">Tracker-Blocker</string>
+    <string name="ads_blocked">Werbeanzeigen blockiert</string>
+    <string name="trackers_blocked">Tracker blockiert</string>
+    <string name="block_popups">Popups blockieren</string>
+    <string name="block_third_party_cookies">Drittanbieter-Cookies blockieren</string>
+    <string name="whitelist_website">Website zur Positivliste hinzufügen</string>
+    <string name="whitelisted">Auf Positivliste</string>
+    <string name="clear_browsing_data">Browserdaten löschen</string>
+
+    <string name="vpn_title">Albion VPN Dienst</string>
+    <string name="vpn_status">VPN Status</string>
+    <string name="vpn_status_disconnected">Getrennt</string>
+    <string name="vpn_status_connecting">Verbinde...</string>
+    <string name="vpn_status_connected">Verbunden</string>
+    <string name="vpn_connect">VPN verbinden</string>
+    <string name="vpn_disconnect">Trennen</string>
+    <string name="vpn_server">VPN Server</string>
+    <string name="vpn_connection_time">Verbindungszeit</string>
+    <string name="vpn_data_transferred">Übertragene Daten</string>
+    <string name="vpn_infrastructure_notice">Hinweis: Lokale TUN-Schnittstelle eingerichtet. Externe Weiterleitung erfordert Serverinfrastruktur.</string>
+
+    <string name="new_tab">Neuer Tab</string>
+    <string name="favorites">Favoriten</string>
+    <string name="recently_visited">Kürzlich besucht</string>
+    <string name="quick_actions">Schnellaktionen</string>
+    <string name="privacy_summary">Datenschutz-Zusammenfassung</string>
+
+    <string name="settings_general">Allgemein</string>
+    <string name="settings_privacy">Datenschutz &amp; Sicherheit</string>
+    <string name="settings_appearance">Erscheinungsbild</string>
+    <string name="settings_browser">Browser-Engine</string>
+    <string name="settings_vpn">VPN-Einstellungen</string>
+    <string name="default_search_engine">Standard-Suchmaschine</string>
+    <string name="theme_mode">Design-Modus</string>
+    <string name="app_language">App-Sprache</string>
+
+    <string name="error_no_internet">Keine Internetverbindung</string>
+    <string name="error_no_internet_desc">Bitte überprüfen Sie Ihre WLAN- oder Mobilfunkverbindung und versuchen Sie es erneut.</string>
+    <string name="error_invalid_url">Ungültige Webadresse</string>
+    <string name="error_page_load_failed">Laden der Seite fehlgeschlagen</string>
+    <string name="error_retry">Erneut versuchen</string>
+</resources>
